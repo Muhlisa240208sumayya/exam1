@@ -1,0 +1,86 @@
+h1 {
+    color: rgb(3, 3, 80);
+    border: solid 3px red;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgba(66, 66, 102, 0.274);
+    height: 35px;
+}
+.red {
+    color: red;
+}
+.gren {
+    color: green;
+}
+.mark {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+
+    color: rgba(16, 26, 16, 0.893);
+}
+.mark2 {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+
+    color: rgb(17, 29, 17);
+}
+.button {
+    color: white;
+    background-color: rgba(9, 9, 232, 0.337);
+    width: 200px;
+    height: 30px;
+
+}
+textarea {
+    width: 100%;
+}
+table,
+th,
+td,
+tr {
+    border: 1px solid rgba(216, 220, 229, 0.562);
+    border-collapse: collapse;
+
+    text-align: center;
+
+    width: 1200px;
+}
+.mark5 {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+
+    color: rgb(17, 29, 17);
+}
+.hayvon {
+    color: white;
+    background-color: green;
+}
+.fakt{
+    color: white;
+    background-color: blue;
+}
+.redd{
+    color: white;
+    background-color: red;
+}
+.blac {
+    color: white;
+    background-color: black;
+    width: 10px;
+}
+.tablee {
+    text-align: center;
+
+    width: 1250px;
+    height: 100px;
+}
+.hayvon {
+    background-color: black;
+    text-align: center;
+}
+img {
+    text-align: center;
+}
